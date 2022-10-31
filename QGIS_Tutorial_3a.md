@@ -138,15 +138,15 @@ The will lead to a new visualization as shown in Figure 14. As you can see, the 
 
 To practice a bit more raster visualization options, try do conduct the following exercises:
 
-(1) Change the multi-band visualization by assigning other bands of the satellite image to the red, green and blue channel of QGIS. For example you can try the combination Red Channel: 6 Green Channel: 3 and Blue Channel 2. This is the so called near{infrared{view where the red channel is replaced by near-infrared information which makes the vegetation appears in red colours in the image. 
+(1) Change the multi-band visualization by assigning other bands of the satellite image to the red, green and blue channel of QGIS. For example you can try the combination Red Channel: 6 Green Channel: 3 and Blue Channel 2. This is the so called color-infrared-view where the red channel is replaced by near-infrared information which makes the vegetation appears in red colours in the image. 
 
-(2) Zoom to the extent of the satellite image and export the current view by selecting "Project" -> "Save as Image" from the main menu of QGIS (Figure 16). This will be the first proof that you completed the Tutorial.
+(2) Zoom to the extent of the satellite image and export the current view by selecting "Project" -> "Save as Image" from the main menu of QGIS (Figure 16). This will be the first proof that you completed the Tutorial.
 
 ![Figure 16: Export current view as image](Fig_16.png)
 
 ** Figure 16: Save current view to image**
 
-(3) Try to switch the render type from "multi-band color" to "single-band gray" and compare the gray values of band 3 and band 6 of the raster dataset. What do you see? Are there any differences in the patterns you observe? Give some short descriptions of you observe - you can export images with the same procedure as explained in step (2). This should with your explanations. This will be the second proof that you completed the Tutorial.
+(3) Try to switch the render type from "multi-band color" to "single-band gray" and compare the gray values of band 3 and band 6 of the raster dataset. What do you see? Are there any differences in the patterns you observe? Give some short descriptions of you observe - you can export images with the same procedure as explained in step (2). This should with your explanations. This will be the second proof that you completed the Tutorial.
 
 ## Reference tutorial 3
 
