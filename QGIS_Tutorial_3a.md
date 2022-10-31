@@ -65,7 +65,7 @@ So let us try this with our satellite image. To change the visualization setting
 
 **Figure 7: Raster symbology window of QGIS**
 
-Now we will assign the satellite bands which collected information on blue, green and red colours to the corresponding channels of QGIS. The red channel of QGIS (marked with "2" in Figure 7 is currently assigned to Channel 1. We will now change this by
+Now we will assign the satellite bands which collected information on blue, green and red colours to the corresponding channels of QGIS. The red channel of QGIS (marked with "2" in Figure 7) is currently assigned to Channel 1. We will now change this by
 
 **Clicking the drop down menu for the "Red Band" (marked with "2" in Figure 7) and select Band 03, which corresponds to the band of the satellite that collected information on electromagnetic radiation that corresponds to red light. Analogously, we will select Band 02 for the "Green Band" of QGIS (marked with "3" in Figure 7 normally, this channel should already be correct) and then Band 01 for the "Blue band" of QGIS (marked with "4" in Figure 7). Then we select "Apply" and then "OK" to see how this changes the visualization of the image (Figure 8).
 
