@@ -16,7 +16,7 @@ For this and the subsequent tutorials you will need to work with a Sentinel-2 sa
 
 ## Loading a raster file in QGIS
 
-Similarly as learned in the last tutorial, we can open a raster file by **simply dragging and dropping the file from the browser-window to layer window** (see Figure 1). 
+Similarly as learned in the last tutorial, we can open a raster file by **simply dragging and dropping the file from the browser-window to the layer window** (see Figure 1). 
 
 ![Figure 1: Opening a raster file via drag and drop in QGIS](Fig_01.png)
 
