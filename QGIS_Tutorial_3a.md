@@ -22,7 +22,7 @@ Similarly as learned in the last tutorial, we can open a raster file by **simply
 
 **Figure 1: Opening a raster file via drag and drop in QGIS**
 
-Alternatively, we can also use the main file-menu of QGIS to add a raster file / raster layer as seen in the Figure 2. This option was not described in the previous tutorials on vector files, but this also work with vector files.
+Alternatively, we can also use the main file-menu of QGIS to add a raster file / raster layer as seen in the Figure 2. This option was not described in the previous tutorials on vector files, but this also works with vector files.
 
 ![Figure 2: Opening a raster file via the file menu of QGIS](Fig_02.png)
 
