@@ -78,7 +78,7 @@ that water has very low reflectance values across all wavelengths ("colours") an
 
 To do this,
 
-We return to the "Properties" window and select the "Symbology" tab. Now we will click the area marked with "6" in Figure 7 to open some additional options to load minimum and maximum values for each raster layer as depicted in Figure 9.
+**We return to the "Properties" window and select the "Symbology" tab. Now we will click the area marked with "6" in Figure 7 to open some additional options to load minimum and maximum values for each raster layer as depicted in Figure 9.**
 
 ![Figure 9: Raster symbology - advanced settings](Fig_09.png)
 
