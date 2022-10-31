@@ -73,7 +73,7 @@ Now we will assign the satellite bands which collected information on blue, gree
 
 **Figure 8: View after adjusting the settings**
 
-In the new visualization (as seen in Figure 8) we can see that the colours on the land surface of the satellite image look more natural to us now. However, we can also see that the sea surface seem to be very dark and not blue as we might have expected. This relates to the fact
+In the new visualization (as seen in Figure 8) we can see that the colours on the land surface of the satellite image look more natural to us now. However, we can also see that the sea surface seems to be very dark and not blue as we might have expected. This relates to the fact
 that water has very low reflectance values across all wavelengths ("colours") and typically appears very dark in satellite images as it absorbs most of the incoming radiation/energy/light. This raises the question whether we can increase the information content for these areas by adjusting the settings some more. Let's try!
 
 To do this,
