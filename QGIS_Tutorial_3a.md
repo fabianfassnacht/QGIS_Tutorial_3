@@ -40,7 +40,7 @@ Once we have successfully opened the raster file, it should be displayed in the 
 
 **Figure 4: View after loading the raster file**
 
-The opened raster dataset is a satellite scene from EU's Sentinel-2 satellite. QGIS will automatically select a visualization setting of the raster dataset based on the statistics of a few randomly selected pixels. However, in most cases these settings will not be optimal. So do not worry if the displayed raster seems to be very dark or with strange colors when using other datasets. In some cases it might even look completely black but still contain relevant data which will only show up after the visualization has been optimized. In our case the first impression should already be quite good, eventhough, it is not yet a realistic true-colour visualization (which describes a visual impression similar to what see with our eyes). In the next section we will learn how the achieve this.
+The opened raster dataset is a satellite scene from EU's Sentinel-2 satellite. QGIS will automatically select a visualization setting of the raster dataset based on the statistics of a few randomly selected pixels. However, in most cases these settings will not be optimal. So do not worry if the displayed raster seems to be very dark or with strange colors when using other datasets. In some cases it might even look completely black but still contain relevant data which will only show up after the visualization has been optimized. In our case the first impression should already be quite good, eventhough, it is not yet a realistic true-colour visualization (which describes a visual impression similar to what we see with our eyes). In the next section we will learn how the achieve this.
 
 ## RGB-Visualization of raster files
 
